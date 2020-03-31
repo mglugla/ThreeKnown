@@ -194,6 +194,11 @@
     font-size: 35px;
 }
 
+.text_overhead2{
+    font-family: "ITC Franklin Gothic Std", bold;
+    font-size: 25px;
+}
+
 .text_footer{
     display: inline-block;
     font-family: "Miller", serif;
